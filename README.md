@@ -1,7 +1,7 @@
 📘 Overview
 
 Welcome to GenAI — a collection of my hands-on experiments in Generative AI.
-This repo captures my learning journey across multiple sessions — from simple prompt-to-response generation to advanced document understanding using RAG (Retrieval-Augmented Generation).
+This repository captures my learning journey across multiple sessions — from simple prompt-to-response generation to advanced document understanding and image intelligence using multimodal models.
 
 ⚡ Sessions Summary
 🧠 Session 1 — Prompt → Response Generation
@@ -16,28 +16,54 @@ Notebook: LangChain_with_GeminiFlash_API.ipynb
 
 Integrated LangChain for pipeline-based LLM operations.
 
-Experimented with chaining prompts and managing context.
+Experimented with prompt chaining, context management, and workflow automation.
 
 Notebook: LangChain_with_GeminiFlash_API.ipynb (continuation of Session 2)
 
 📄 Session 3 — RAG Paper Reader Application
 
-Created a prototype RAG Reader capable of parsing unstructured documents (like IEEE research papers).
+Built a RAG-based Reader to extract insights from unstructured documents like IEEE research papers.
 
-Handled layouts with multi-columns, tables, and figures.
+Handled multi-column layouts, tables, and figures.
 
-Designed logic to maintain contextual flow for LLM input.
+Developed logic to preserve document context for accurate LLM comprehension.
 
 Folder: rag_paper_reader/
 
+🖼️ Session 4 — AI Image Analyzer (Multimodal App)
+
+Designed a Streamlit-based interactive web app using Gemini 2.0 Flash.
+
+Allows users to upload any image and perform tasks like:
+
+🚀 Analyze Image: Ask custom questions about visual content.
+
+🖼️ Generate Caption: Create meaningful, detailed captions.
+
+😃 Emotion Detection: Identify the emotion or mood conveyed by the image.
+
+Features include:
+
+Sidebar settings for model selection & creativity control.
+
+Downloadable responses and session-based chat history.
+
+Polished UI with modern dark theme and animations.
+
+App: ai_image_analyzer/
+
 🧩 Tech Stack
 
-Python, Jupyter Notebooks
+Python, Streamlit, Jupyter Notebooks
 
-Gemini Flash API, LangChain, PyPDF for doc reading
+Gemini Flash API, LangChain, PyPDF, PIL
 
-GitHub for version control & progress tracking
+GitHub for version control & continuous progress tracking
 
 🚀 Goal
 
-To build a progressive repository that explores and demonstrates Generative AI applications — starting from prompt engineering to full-fledged AI-driven automation systems.
+To create a progressive repository that explores and showcases Generative AI capabilities — from prompt engineering to RAG systems and multimodal AI applications.
+
+🌟 What’s Next
+
+More GenAI experiments coming soon — pushing boundaries with agents, voice AI, and advanced multimodal LLM workflows. Stay tuned 👀
