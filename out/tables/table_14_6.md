@@ -1,0 +1,25 @@
+| 0 | 1 | 2 | 3 |
+| --- | --- | --- | --- |
+| Analyte(s) | Brief method description | LOD | References |
+| Alprostadil (vasodilator) and
+ethinyl estradiol (semisynthetic
+alkylated estradiol) | Methods for the determi-
+nation of steroidal estro-
+gen using GC-MS | 300–570 ng g(cid:1)1 | Gunatilake
+et al.
+(2016) |
+| Melamine (used in the manufac-
+ture of plastics, ﬂame retardants,
+coatings, and other products) | Method for the determi-
+nation of melamine using
+HPLC-DAD | 0.01 mg kg(cid:1)1 | Nong et al.
+(2014) |
+| Antibiotics (sulfadiazine,
+roxithromycin) | Method for the determi-
+nation of antibiotics using
+LC-MS-MS | – | Sun et al.
+(2015) |
+| Antibiotic (OTC) | Method for the determi-
+nation of OTC antibiotic
+in soils using HPLC-UV | <1 mg L(cid:1)1 | Vaz Jr.
+(2016) |
